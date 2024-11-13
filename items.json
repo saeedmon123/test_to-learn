@@ -1,0 +1,91 @@
+{
+    "products": {
+      "candy": [
+        {
+          "id": 1,
+          "name": "Gummy Bears",
+          "price": 5.99,
+          "picture": "assets/candy/gummy_bears.png"
+        },
+        {
+          "id": 2,
+          "name": "Jelly Beans",
+          "price": 4.99,
+          "picture": "assets/candy/jelly_beans.png"
+        },
+        {
+          "id": 3,
+          "name": "Lollipop Assortment",
+          "price": 6.49,
+          "picture": "assets/candy/lollipops.png"
+        }
+      ],
+      "chocolate": [
+        {
+          "id": 6,
+          "name": "M&M's",
+          "price": 2.99,
+          "picture": "assets/chocolate/M&M's.png"
+        },
+        {
+          "id": 7,
+          "name": "Milka Oreo",
+          "price": 7.99,
+          "picture": "assets/chocolate/Milka_Oreo.png"
+        },
+        {
+          "id": 8,
+          "name": "Kinder Chocolate",
+          "price": 3.49,
+          "picture": "assets/chocolate/kinder_Chocolate.png"
+        }
+      ],
+      "flowers": [
+        {
+          "id": 11,
+          "name": "Rose Bouquet",
+          "price": 15.99,
+          "picture": "assets/flowers/rose_bouquet.png"
+        },
+        {
+          "id": 12,
+          "name": "Tulip Arrangement",
+          "price": 13.99,
+          "picture": "assets/flowers/tulips.png"
+        },
+        {
+          "id": 13,
+          "name": "Sunflower Basket",
+          "price": 18.99,
+          "picture": "assets/flowers/sunflowers.png"
+        },
+        {
+          "id": 14,
+          "name": "Lily Mix",
+          "price": 14.99,
+          "picture": "assets/flowers/lilies.png"
+        }
+      ],
+      "toys": [
+        {
+          "id": 16,
+          "name": "Stuffed Bear",
+          "price": 9.99,
+          "picture": "assets/toys/stuffed_bear.png"
+        },
+        {
+          "id": 17,
+          "name": "Toy Car",
+          "price": 7.49,
+          "picture": "assets/toys/toy_car.png"
+        },
+        {
+          "id": 18,
+          "name": "Doll",
+          "price": 8.99,
+          "picture": "assets/toys/doll.png"
+        }
+      ]
+    }
+  }
+  
